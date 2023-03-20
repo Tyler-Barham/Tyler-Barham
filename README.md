@@ -14,10 +14,4 @@ Can't detect it? yolo it
 
 ## My tools
 <!-- Forced into html for consistent image sizes... -->
-<img src="./assets/cplusplus.svg" height="40" />
-<img src="./assets/python.svg" height="40" />
-<img src="./assets/cuda.svg" height="40" />
-<img src="./assets/bash.svg" height="40" />
-<img src="./assets/docker.svg" height="40" />
-<img src="./assets/jenkins.svg" height="40" />
-<img src="./assets/vim.svg" height="40" />
+<img src="./assets/cplusplus.svg" height="40" /> <img src="./assets/python.svg" height="40" /> <img src="./assets/cuda.svg" height="40" /> <img src="./assets/bash.svg" height="40" /> <img src="./assets/docker.svg" height="40" /> <img src="./assets/jenkins.svg" height="40" /> <img src="./assets/vim.svg" height="40" />
