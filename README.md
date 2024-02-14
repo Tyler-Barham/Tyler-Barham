@@ -8,10 +8,9 @@
 
 ## About me
 
-I help machines see and grade fruit that's being yeeted at 1.2 m/s. Area-scan applications will see ~300 fruit per second, with line-scan doubling that.
+I help machines see and grade fruit that's being yeeted at 1.5 m/s. Area-scan applications will see ~350 fruit per second, with line-scan doubling that. I do a lot of prototyping through Python and OpenCV, then write production code as custom CUDA kernels and hook them up through C++.
 
-Can't detect it? yolo it
 
 ## My tools
 <!-- Forced into html for consistent image sizes... -->
-<img src="./assets/cplusplus.svg" height="40" /> <img src="./assets/python.svg" height="40" /> <img src="./assets/cuda.svg" height="40" /> <img src="./assets/bash.png" height="40" /> <img src="./assets/docker.svg" height="40" /> <img src="./assets/jenkins.svg" height="40" /> <img src="./assets/neovim.svg" height="40" />
+<img src="./assets/cplusplus.svg" height="40" /> <img src="./assets/python.svg" height="40" /> <img src="./assets/cuda.jpg" height="40" /> <img src="./assets/Qt.png" height="40" /> <img src="./assets/bash.png" height="40" /> <img src="./assets/docker.svg" height="40" /> <img src="./assets/neovim.svg" height="40" />
