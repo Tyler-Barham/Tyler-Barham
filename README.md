@@ -1,6 +1,6 @@
 <!-- Forced into html for alignment... -->
 <h1 align="center">Hi 👋, I'm Tyler</h1>
-<h3 align="center">A software engineer from Hamilton NZ 🇳🇿</h3>
+<h3 align="center">A software engineer from Hamilton NZ</h3>
 
 <p align="center">
 <a href="https://github.com/Tyler-Barham"><img src="https://visitor-badge.laobi.icu/badge?page_id=Tyler-Barham.profile_views" /></a> <a href="https://github.com/Tyler-Barham?tab=followers"><img src="https://img.shields.io/github/followers/Tyler-Barham.svg?label=followers" /></a> <a href="https://www.linkedin.com/in/tyler-barham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
